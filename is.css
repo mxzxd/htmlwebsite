@@ -1,0 +1,21 @@
+table         { border: 1px solid white;
+                border-collapse: separate;
+	          border-spacing:10px;
+    		    min-width: 400px;
+		    padding; 10px}
+
+td            { border: 1px solid white;}
+
+li		  { text-decoration: underline ;}
+
+p	        { color: white; 
+		    font-size: 18px;}
+
+
+body	        { background-color: #1a1c3d; 
+		    color:white;
+		    font-size: 18px;}
+
+h1,h2,h3,p,body    { font-family: "Arial", Calibri, sans-serif; 
+			   color:white;}
+
